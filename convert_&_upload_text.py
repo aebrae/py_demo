@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""iterates through the descriptions directory and converts each text file to JSON format to post to REST API endpoint"""
+"""iterates through the descriptions directory and converts each new product text file to JSON format to post to REST API endpoint so that the all the new products are uploaded to the website"""
 import os
 import requests
 
