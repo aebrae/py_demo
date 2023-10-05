@@ -24,7 +24,7 @@ watermelon
 Watermelons have a longer growing period than other melons.
 """
 
-""" example JSON dictionary that gets uploaded to a different REST API endpoint:
+""" example JSON dictionary converted from text file that gets uploaded to a different REST API endpoint:
 {"name": "watermelon", "weight": 200, "description": "Watermelons have a longer growing period than other melons.", "image_name": "watermelon.jpeg"}
 """
 
