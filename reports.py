@@ -11,3 +11,6 @@ def generate_report(attachment, title, paragraph):
         report_title = Paragraph(title, styles["h1"])
         report_table = Table(data=paragraph,hAlign="LEFT")
         report.build([report_title, report_table])
+
+
+
