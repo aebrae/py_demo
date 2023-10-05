@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Creates a PDF based on the data sent by the supplier and then sends an email to the supplier indicating they were processed via PDF attachemnt"
+"""Creates a PDF based on the text files sent by the supplier and then sends an email to the supplier indicating they were processed via PDF attachemnt"
 import os
 import reports
 import emails
