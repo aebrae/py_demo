@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Process the supplier images to the following specs: 
+"""Process the new images to the following specs: 
         --change resolution from 3000x2000 to 600x400 pixel
         --change image format from .TIFF to .JPEG
 """
